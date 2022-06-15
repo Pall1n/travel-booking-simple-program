@@ -1,7 +1,7 @@
 /*
-Hello! this is a school project which allows you to booking an immaginary travel.
-The vector are dynamic, so you can add as many departures and arrivals as you want!
-The travel vector are formed by various vectors that contain the departures and the respective arrivals:
+Hello! this is a project which allows you to booking an immaginary travel.
+The vectors are dynamic, so you can add as many departures and arrivals as you want!
+The travel vector are made with various vectors that contain the departures and the respective arrivals:
 {
   {
     {departure airport, his acronym},
@@ -20,7 +20,7 @@ The travel vector are formed by various vectors that contain the departures and 
   ...
 }
 
-In December there is a a 10% discount during payment, but you can change this.
+In December there is a a 10% discount during payment, but you can change it.
 
 At the end, the program generate a code that identifies the travel.
 In the homepage there is an option to verify the travel by his code.
